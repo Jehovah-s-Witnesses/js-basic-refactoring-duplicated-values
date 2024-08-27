@@ -1,3 +1,4 @@
 const userName = prompt('Enter your name');
+const welcomeMessage = 'Hi';
 
-alert(`Hi, ${userName}`);
+alert(`${welcomeMessage} , ${userName}`);
